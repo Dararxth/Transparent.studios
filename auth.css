@@ -1,0 +1,15 @@
+:root {
+    --blue: #335fff;
+    --gray: #6F6F6F;
+    --dark-teal: #004734;
+    --dark-gray: #373737;
+}
+
+
+.login button {
+    background: var(--blue);
+    transition: 0.3s;
+}
+
+
+/* Sign Up */
